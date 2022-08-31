@@ -1,0 +1,22 @@
+pt-BR:
+activerecord:
+  models:
+    city:
+      one: Cidade
+      other: Cidades
+    state: Estado
+  attributes:
+    city:
+      id: Código
+      description: Descrição
+      code: CEP
+      image: URL da imagem
+      state: Estado
+      state_id: ID Estado
+      created_at: Criado em 
+      updated_at: Atualizado em
+    state:
+      acronym: Sigla
+      description: Descrição
+      created_at: Criado em 
+      updated_at: Atualizado em

@@ -1,0 +1,8 @@
+pt-BR:
+  language: "Português"
+  welcome: "Bem vindo"
+  city: "Cidade"
+  links: 
+    show: "Mostrar"
+    edit: "Editar"
+    destroy: "Excluir"
