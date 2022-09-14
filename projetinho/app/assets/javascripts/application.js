@@ -14,3 +14,6 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+//= require jquery
+//= require notify-js-legacy/notify
+//= require materialize-css/dist/js/materialize

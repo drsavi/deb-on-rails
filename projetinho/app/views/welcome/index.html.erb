@@ -3,3 +3,15 @@
 <p>O idioma padrão é: <%= I18n.locale %> - <%= t('hello') %> - <%= t('language') %></p>
 
 <p>Data padrão <%= l(Date.today) %></p>
+
+<h2>cookie <%= cookies[:teste_C] %></h2>
+<h2>session <%= session[:teste_S] %></h2>
+
+<p> <%= I18n.t('welcome')%> </p>
+<p> <%= t('city')%> </p>
+
+
+<% alert_msg = "Bom dia" %>
+<script>
+    $.notify("<%= alert_msg %>", "sucess");
+</script>

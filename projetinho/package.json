@@ -1,5 +1,14 @@
 {
   "name": "projetinho",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "notify-js-legacy": "^0.4.1"
+  },
+  "version": "1.0.0",
+  "description": "BagDuel sendo gerado...",
+  "main": "index.js",
+  "author": "DrSavi",
+  "license": "MIT"
 }
